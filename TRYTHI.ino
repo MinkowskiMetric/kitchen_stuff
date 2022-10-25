@@ -1,6 +1,12 @@
+// i want to coding before i lost it
+
+// you need FastLED now for driving them
+// then you drive DATA_BIN data pin
+
+// I have a ESP32 wrover computer, wwhich was played it
+// i was going the radio so i could have then
 #include <FastLED.h>
 
-const int LED_BUILTIN = 2;
 const int DATA_PIN = 22;
 const int LED_COUNT = 98;
 const int BRIGHTNESS = 64;
